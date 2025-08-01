@@ -2,3 +2,115 @@ html {
   height: 100%;
   width: 100%;
 }
+
+Css 
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+.box {
+
+  width: 350px; 
+  height: 200px; 
+  background-color: lightblue;
+  border: 2px solid black; 
+  padding: 20px; 
+  margin: 50px; 
+  box-sizing: border-box; /
+  font-family: Arial, Helvetica, sans-serif;
+}
+.box2 {
+width: 350px; 
+height: 200px; 
+background-color: lightblue;
+border: 2px solid black; 
+padding: 20px; 
+margin: 50px; 
+box-sizing: border-box; /
+font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  bottom: 0;
+  right: 5%;
+}
+
+img {
+  
+  align-items: center
+}
+  h3 {
+  text-align: center;
+  }
+
+.home {
+  position: absolute;
+  top: 0;
+  left: 65%;
+  transform: translateX(-50%)
+  border-left: 6px solid green;
+  height: 500px;
+}
+
+.vl1 {
+  border-left: 2px solid black;
+  height: 50px;
+  position: absolute;
+  left: 71%;
+  margin-left: -3px;
+  top: 2%;
+
+  
+}
+
+.project {
+  position: absolute;
+  top: 0;
+  left: 75%;
+  transform: translateX(-50%)
+}
+
+.vl2 {
+  border-left: 2px solid black;
+  height: 50px;
+  position: absolute;
+  left: 81%;
+  margin-left: -3px;
+  top: 2%;
+}
+
+.About {
+
+  position: absolute;
+  top: 0;
+  left: 85%;
+  transform: translateX(-50%)
+}
+.vl3 {
+  border-left: 2px solid black;
+  height: 50px;
+  position: absolute;
+  left: 91%;
+  margin-left: -3px;
+  top: 2%;
+}
+
+.Other {
+  position: absolute;
+  top: 0;
+  left: 95%;
+  
+  transform: translateX(-50%)
+}
+
+h2 {
+  background-color:  #947EB0;
+  padding: 15;
+  margin: 1;
+}
+
+body {
+
+  
+}
